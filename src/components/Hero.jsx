@@ -14,8 +14,8 @@ const Hero = () => {
             {/* Background - Simulating Video with a high quality image for this demo */}
             <div className="absolute inset-0 z-0">
                 <img
-                    src="/images/hero_main.png"
-                    alt="Artisanal Ice Cream Making"
+                    src="/images/hero_kids_shop_v3.png"
+                    alt="Happy kids eating ice cream in front of Al Moheet shop"
                     className="w-full h-full object-cover"
                 />
                 {/* Darker gradient overlay for better text contrast */}

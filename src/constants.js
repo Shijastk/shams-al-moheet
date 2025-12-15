@@ -91,9 +91,9 @@ export const CATEGORIES = [
 export const CAROUSEL_ITEMS = [
     {
         id: 1,
-        image: '/images/cat_artisan.png',
-        title: 'Summer Collection',
-        subtitle: 'Taste the sunshine'
+        image: '/images/kids_eating_2.png',
+        title: 'Summer Fun',
+        subtitle: 'Joy in every scoop'
     },
     {
         id: 2,
@@ -103,8 +103,8 @@ export const CAROUSEL_ITEMS = [
     },
     {
         id: 3,
-        image: '/images/cat_sorbet.png',
-        title: 'Vegan Delights',
-        subtitle: 'Plant-based perfection'
+        image: '/images/kids_eating_1.png',
+        title: 'Pure Delight',
+        subtitle: 'Smiles guaranteed'
     }
 ];

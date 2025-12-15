@@ -16,8 +16,8 @@ const Story = () => {
                     className="lg:w-1/2 h-[500px] lg:h-auto relative"
                 >
                     <img
-                        src="/images/story_process.png"
-                        alt="Founder crafting ice cream"
+                        src="/images/story_kids.png"
+                        alt="Child enjoying ice cream"
                         className="w-full h-full object-cover"
                     />
                     <div className="absolute inset-0 bg-brand-pink/10 mix-blend-multiply" />
