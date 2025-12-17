@@ -40,7 +40,7 @@ const Navbar = () => {
             <div className="container mx-auto px-6 flex items-center justify-between">
                 {/* Logo */}
                 <Link to="/" className="font-serif text-2xl md:text-3xl font-bold text-brand-pink tracking-tight flex items-center gap-3">
-                    <img src="/images/logo_transparent.png" alt="Shams Al Moheet Logo" className="h-16 w-auto  bg-white rounded-full" />
+                    <img src="/images/logo_transparen.webp" alt="Shams Al Moheet Logo" className="h-16 w-auto  bg-white rounded-full" />
                     <span className="hidden lg:inline">Shams Al Moheet<span className="text-brand-ocean">.</span></span>
                     <span className="lg:hidden">Shams<span className="text-brand-ocean">.</span></span>
                 </Link>
