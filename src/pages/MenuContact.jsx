@@ -145,7 +145,7 @@ const MenuContact = () => {
                                     <Phone className="mt-1 shrink-0" />
                                     <div>
                                         <h3 className="font-bold text-lg mb-1">Contact</h3>
-                                        <p className="text-white/90">+971 4 123 4567</p>
+                                        <p className="text-white/90">+971 5660 48943</p>
                                         <p className="text-white/90">info@shamsalmoheet.com</p>
                                     </div>
                                 </div>
